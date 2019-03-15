@@ -1,0 +1,9 @@
+---
+
+- name: install some fonts
+  become: yes
+  pacman:
+    name: '{{ arch_fonts }}'
+    state: latest
+    update_cache: yes
+
