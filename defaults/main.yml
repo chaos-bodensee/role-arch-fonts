@@ -1,4 +1,6 @@
-
+---
+# enable versionscheck for this role
+submodules_versioncheck: true
 
 # some default font packages:
 arch_fonts:
@@ -47,4 +49,3 @@ arch_fonts:
   - font-mathematica 
   - texlive-core 
   - texlive-fontsextra
-
