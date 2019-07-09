@@ -21,7 +21,6 @@ arch_fonts:
   - ttf-inconsolata
   - adobe-source-code-pro-fonts
   - ttf-linux-libertine
-  - ttf-cheapskate 
   - xorg-fonts-type1
   - ttf-mph-2b-damase 
   - ttf-junicode 
