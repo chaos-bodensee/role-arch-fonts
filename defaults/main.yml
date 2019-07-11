@@ -48,3 +48,4 @@ arch_fonts:
   - font-mathematica 
   - texlive-core 
   - texlive-fontsextra
+  - gnu-free-fonts
