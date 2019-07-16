@@ -16,7 +16,6 @@ arch_fonts:
   - ttf-anonymous-pro
   - ttf-fira-mono
   - otf-fira-mono
-  - ttf-freefont
   - ttf-hack
   - ttf-inconsolata
   - adobe-source-code-pro-fonts
