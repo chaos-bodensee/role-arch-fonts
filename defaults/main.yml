@@ -21,30 +21,28 @@ arch_fonts:
   - adobe-source-code-pro-fonts
   - ttf-linux-libertine
   - xorg-fonts-type1
-  - ttf-mph-2b-damase 
-  - ttf-junicode 
-  - ttf-ubraille 
-  - noto-fonts-cjk 
+  - ttf-junicode
+  - noto-fonts-cjk
   - adobe-source-han-sans-otc-fonts
-  - adobe-source-han-serif-otc-fonts 
-  - wqy-microhei 
-  - adobe-source-han-sans-cn-fonts 
-  - adobe-source-han-sans-tw-fonts 
-  - adobe-source-han-serif-cn-fonts 
+  - adobe-source-han-serif-otc-fonts
+  - wqy-microhei
+  - adobe-source-han-sans-cn-fonts
+  - adobe-source-han-sans-tw-fonts
+  - adobe-source-han-serif-cn-fonts
   - adobe-source-han-serif-tw-fonts
-  - wqy-bitmapfont 
+  - wqy-bitmapfont
   - wqy-zenhei
-  - ttf-arphic-uming 
-  - ttf-arphic-ukai 
-  - opendesktop-fonts 
-  - ttf-hannom 
-  - adobe-source-han-sans-jp-fonts 
+  - ttf-arphic-uming
+  - ttf-arphic-ukai
+  - opendesktop-fonts
+  - ttf-hannom
+  - adobe-source-han-sans-jp-fonts
   - ttf-hanazono
-  - ttf-baekmuk 
+  - ttf-baekmuk
   - noto-fonts-emoji
   - ttf-arphic-uming
   - ttf-indic-otf
-  - font-mathematica 
-  - texlive-core 
+  - font-mathematica
+  - texlive-core
   - texlive-fontsextra
   - gnu-free-fonts
