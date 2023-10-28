@@ -2,6 +2,11 @@
 - include_tasks: versioncheck.yml
   when: submodules_versioncheck|bool
 
+- name: Role no longer maintained
+  ansible.builtin.fail:
+    msg: This role is no longer maintained
+  when: arch_fonts_skip_deprecation_message | default(true) | bool
+
 - name: install some fonts
   become: yes
   pacman:
